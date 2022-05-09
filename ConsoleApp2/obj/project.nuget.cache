@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61M9zhclOGhqMdyR3UzCZcNWeyOtLcArPvePbZK5wM/dIBr+Be/eMqwRhABHpvAFYBtC2a3WkmPWivcLp/wNfw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Study\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtimz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
